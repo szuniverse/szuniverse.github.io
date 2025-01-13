@@ -14,6 +14,10 @@
                   "comment": "Matches any URL with a path that starts with /qrCodeScan/."
                },
                {
+                  "/": "/buy/*",
+                  "comment": "Matches any URL with a path that starts with /buy/."
+               },
+               {
                   "/": "/help/website/*",
                   "exclude": true,
                   "comment": "Matches any URL with a path that starts with /help/website/ and instructs the system not to open it as a universal link."
