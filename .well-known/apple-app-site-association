@@ -10,8 +10,8 @@
                   "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
                },
                {
-                  "/": "/buy/*",
-                  "comment": "Matches any URL with a path that starts with /buy/."
+                  "/": "/qrCodeScan/*",
+                  "comment": "Matches any URL with a path that starts with /qrCodeScan/."
                },
                {
                   "/": "/help/website/*",
