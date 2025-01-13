@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "com.test.istdav.uni",
+        "appID": "ch.twint.enterprise.wallet",
         "paths": ["/home*"]
       }
     ]
