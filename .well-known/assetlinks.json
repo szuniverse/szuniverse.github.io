@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ch.twint.payment",
+      "sha256_cert_fingerprints": [
+        "47:EB:2A:A7:C7:52:9B:F5:5E:FF:0B:6D:26:EC:8C:84:6A:ED:8E:EA:E8:22:C3:CA:59:EC:AD:45:0D:BA:89:FD"
+      ]
+    }
+  }
+]
